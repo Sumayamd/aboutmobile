@@ -2,9 +2,18 @@
 
 >vivo mobile infermation
 ```json
-
+[
+    {
+        "name": "oppo",
+        "model" :"2021"
+    },
+    {
+        "name" :"redme",
+        "model"  : "2022"
+    }
+]
 {
-    "Vivo" : "Y51 2020",
+    "vivo" : "Y51 2020",
     "Display" :"IPS LCD 6.58 FULL HD",
     "OS": "Android 11",
     "CPU" :"Snapdragon 662",
@@ -15,5 +24,6 @@
 
 
 }
+
 
 ```
